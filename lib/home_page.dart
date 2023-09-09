@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_template/AllWords.dart';
-import 'package:flutter_template/Counter/title_change_page.dart';
+import 'package:flutter_template/TitleChange/title_change_page.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
